@@ -3,7 +3,7 @@ export const Bio = {
   roles: [
     "Full Stack Developer",
     "Fontend Developer",
-    "UI/UX Designer",
+    "Mern Stack Devloper",
     "Programmer",
   ],
   description:
@@ -232,32 +232,32 @@ export const projects = [
       {
         name: "Ajay",
         img: "https://media.licdn.com/dms/image/v2/C4D03AQE3t7SDHvpu5Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1656783519409?e=1738800000&v=beta&t=-qwgG3X9oLP03F16p0298haEWAEUcVC9TI05aMBSH90",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+
         github: "https://github.com/AjayPalFuture/",
       },
      
     ],
   },
-  // {
-  //   id: 1,
-  //   title: "Vexa",
-  //   date: "Oct 2022 - Jan 2023",
-  //   description:
-  //     "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-  //   tags: [
-  //     "React Js",
-  //     "MongoDb",
-  //     "Node Js",
-  //     "Express Js",
-  //     "Redux",
-  //     "NodeMailer",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Project-Management-App",
-  //   webapp: "https://vexa-app.netlify.app/",
-  // },
+  {
+    id: 1,
+    title: "Descord UI",
+    date: "Oct 2024 -Nov 2024",
+    description:
+      "Designed and developed the Descord UI project.",
+    image:
+      "https://github.com/AjayPalFuture/DiscordClone-Using-Tailwind/blob/main/DiscordImg.png?raw=true",
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "NodeMailer",
+    ],
+    category: "web app",
+    github: "https://github.com/AjayPalFuture/DiscordClone-Using-Tailwind",
+    webapp: "https://discord-clone-using-tailwind.vercel.app/",
+  },
   // {
   //   id: 2,
   //   title: "Brain Tumor Detection",
