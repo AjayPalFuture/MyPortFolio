@@ -12,8 +12,8 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1Dt9aZwcp4Fu005FYeQeL0gOnhXtQ-lET/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/ajay-pal-3747651a7/",
-  // insta: "https://www.instagram.com/rishav_chanda/",
-  // facebook: "https://www.facebook.com/rishav.chanda.165/",
+  // insta: "https://www.instagram.com/ajay_pal99178/",
+  // facebook: "/",
 };
 
 export const skills = [
